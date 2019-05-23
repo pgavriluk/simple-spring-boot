@@ -1,0 +1,5 @@
+<thlogic>
+    <attr sel="#headerId" th:replace="~{fragments/header :: header}"/>
+    <attr sel="#play" th:href="@{__${T(pavel.demo.util.GameMappings).PLAY}__}" th:text="Play"/>
+    <attr sel="#footerId" th:replace="~{fragments/footer :: footer}"/>
+</thlogic>

@@ -1,3 +1,9 @@
-pavel/demo/config/WebConfig.class
-pavel/demo/WebMain.class
+pavel/demo/controller/GameController.class
+pavel/demo/util/GameMappings.class
+pavel/demo/service/GameServiceImpl.class
 pavel/demo/util/ViewNames.class
+pavel/demo/config/WebConfig.class
+pavel/demo/util/thymeleaf/DecoupledLogicSetup.class
+pavel/demo/WebMain.class
+pavel/demo/service/GameService.class
+pavel/demo/util/AttributeNames.class
