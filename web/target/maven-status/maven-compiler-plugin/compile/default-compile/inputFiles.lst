@@ -4,6 +4,7 @@
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/controller/GameController.java
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/util/ViewNames.java
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/WebMain.java
+/Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/interceptor/RequestInterceptor.java
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/service/GameService.java
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/config/WebConfig.java
 /Users/pavelgavriluk/Repos/guess-the-number-game/web/src/main/java/pavel/demo/service/GameServiceImpl.java

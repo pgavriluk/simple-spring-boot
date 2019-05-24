@@ -2,38 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a5c3d8c-1617-4435-8c2a-bc59efd276d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/messages_es.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/messages_he.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/messages_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/AttributeNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/GameMappings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/thymeleaf/DecoupledLogicSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.th.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.th.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/interceptor/RequestInterceptor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/config/game.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/config/game.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/messages_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/messages_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/messages_he.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/messages_he.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/messages_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/messages_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/messages_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/messages_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/messages_he.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/messages_he.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/messages_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/messages_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/pavel/demo/MessageGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/pavel/demo/MessageGeneratorImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/ViewNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/ViewNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/play.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/classes/pavel/demo/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/pavel/demo/util/ViewNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/pavel/demo/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/pavel/demo/controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/templates/game-over.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/templates/game-over.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/templates/game-over.th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/templates/game-over.th.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/classes/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/templates/home.th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/templates/home.th.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar.original" afterDir="false" />
     </list>
@@ -54,69 +51,98 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="56" column="60" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_ru.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="ResourceBundle" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="443">
+              <caret line="34" column="71" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.html">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/logback-spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.th.xml">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/interceptor/RequestInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="89" selection-start-line="2" selection-start-column="89" selection-end-line="2" selection-end-column="89" />
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://messages">
-          <provider selected="true" editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.html">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
+          <provider editor-type-id="ResourceBundle" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.th.xml">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -178,28 +204,30 @@
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/console/pom.xml" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/WebMain.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/service/GameService.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/service/GameServiceImpl.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/AttributeNames.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/ViewNames.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/GameMappings.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.html" />
         <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/util/thymeleaf/DecoupledLogicSetup.java" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.html" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" />
-        <option value="$PROJECT_DIR$/core/src/main/resources/logback-spring.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/play.html" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.html" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.th.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.html" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" />
         <option value="$PROJECT_DIR$/web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/interceptor/RequestInterceptor.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java" />
       </list>
     </option>
   </component>
@@ -232,8 +260,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1447" />
-    <option name="y" value="-157" />
+    <option name="x" value="1446" />
+    <option name="y" value="-155" />
     <option name="width" value="1890" />
     <option name="height" value="974" />
   </component>
@@ -252,6 +280,11 @@
             <path>
               <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
               <item name="guess-the-number-game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guess-the-number-game" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
@@ -305,6 +338,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guess-the-number-game" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource Bundle 'messages'" type="a6c14932:ResourceBundleNode" />
             </path>
             <path>
               <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
@@ -382,6 +424,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pavel" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guess-the-number-game" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pavel" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -433,6 +486,55 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="fragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-webmvc-5.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-webmvc-5.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-webmvc-5.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-webmvc-5.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guess-the-number-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-webmvc-5.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -638,15 +740,15 @@
       <option name="presentableId" value="Default" />
       <updated>1524872713062</updated>
       <workItem from="1558544391419" duration="8503000" />
-      <workItem from="1558614236877" duration="18604000" />
+      <workItem from="1558614236877" duration="29391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27107000" />
+    <option name="totallyTimeSpent" value="37894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3362" y="-156" width="1890" height="974" extended-state="0" />
+    <frame x="1446" y="-155" width="1890" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="568" y="60" width="319" height="624" id="Project" order="0" visible="true" weight="0.16612554" />
@@ -682,7 +784,7 @@
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.15406275" />
-      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.32954547" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32954547" />
       <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
@@ -735,13 +837,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/console/src/main/java/academy/learnprogramming/console/Main.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/pavel/demo/NumberGeneratorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -819,16 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/pavel/demo/GameImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -894,84 +979,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_es.properties">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="ResourceBundle" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="ResourceBundle" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_ru.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="ResourceBundle" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_he.properties">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="ResourceBundle" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_il.properties">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="ResourceBundle" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/header.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1001,10 +1015,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_he.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/controller/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages_ru.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/game-over.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/pavel/demo/MessageGeneratorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="56" column="60" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/interceptor/RequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/pavel/demo/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="34" column="71" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,7 +1,9 @@
 <thlogic>
     <attr sel="#headerID" th:replace="~{fragments/header :: header}"/>
+    <attr sel="#game-title" th:text="#{game.title}"/>
+    <attr sel="#game-over" th:text="#{game.game.over}"/>
     <attr sel="#result-message" th:text="${__${T(pavel.demo.util.AttributeNames).RESULT_MESSAGE}__}"/>
-    <attr sel="#play-again" th:href="@{__${T(pavel.demo.util.GameMappings).RESTART}__}"/>
-    <attr sel="#home" th:href="@{__${T(pavel.demo.util.GameMappings).HOME}__}"/>
+    <attr sel="#play-again" th:href="@{__${T(pavel.demo.util.GameMappings).RESTART}__}" th:text="#{game.play.again}"/>
+    <attr sel="#home" th:href="@{__${T(pavel.demo.util.GameMappings).HOME}__}" th:text="#{game.home}"/>
     <attr sel="#footerId" th:replace="~{fragments/footer :: footer}"/>
 </thlogic>
